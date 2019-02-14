@@ -57,7 +57,7 @@
                 <configuration>
                     <url>jdbc:h2:./mydb;AUTO_SERVER=true</url>
                     <user>sa</user>
-                    <password>1234</password>
+                    <password>  </password>
                 </configuration>
             </plugin>
 
